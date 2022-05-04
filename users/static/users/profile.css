@@ -1,0 +1,49 @@
+.account-img{
+    height: 300px;
+    width: 300px;
+}
+.media{
+    padding:3%;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.text-secondary{
+    padding:10px;
+    margin-left:20%;
+    font-size: 20px;
+    font-weight: bold;
+    color: #2F455C;
+}
+.account-heading{
+    padding:10px;
+    margin-left:20%;
+    font-size: 50px;
+    font-weight: bold;
+    color: #2F455C;
+}
+.container{
+    padding:10px;
+}
+
+/* rardiness, 
+    yung nasa ibaba nitong comment na to yan yung 
+    classes ng nasa form na nakalagay sa loob ng 
+    profile.html... hindi ko ma-adjust sakin HAHAHAH */
+
+.mb-4{
+    margin-left: 10%;
+}
+.form-control{
+    margin-left: 10%;
+}
+.requiredfield{
+    margin-left: 10%;
+}
+.form-group{
+    margin-left: 10%;
+    padding: 50px;
+}
+.btn-outline-info{
+    margin-left: 10%;
+}
+
